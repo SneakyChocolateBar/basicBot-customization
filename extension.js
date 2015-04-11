@@ -88,7 +88,7 @@
             ["sound", "The song you played had bad sound quality or no sound. "],
             ["nsfw", "The song you contained was NSFW (image or sound). "],
             ["unavailable", "The song you played was not available for some users. "]
-            ["troll", "You have played a troll song which is against the rules! "]
+            ["troll", "You have played a troll song which is against the rules. "]
         ],
         afkpositionCheck: 15,
         afkRankCheck: "ambassador",
